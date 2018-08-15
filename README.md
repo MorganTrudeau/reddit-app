@@ -16,5 +16,4 @@ Requirements:
 - Style according to included picture
 
 ### Styling
-![Styled Screen](https://github.com/MorganTrudeau/reddit-app/blob/master/assets/img/screen.png)
 <img src="https://github.com/MorganTrudeau/reddit-app/blob/master/assets/img/screen.png" width="400" />
